@@ -1,0 +1,9 @@
+body {
+    background-color: hwb(31 88% 0%);
+}
+.destaque{
+    background-color: yellow;
+}
+#titulo-secao{
+    text-align: center;
+}
