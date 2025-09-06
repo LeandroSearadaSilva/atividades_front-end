@@ -1,0 +1,10 @@
+.cartao{
+    margin: 20px 20px;
+    background-color: hwb(184 0% 68%);
+    padding: 1cm 1cm 1cm 1cm;
+    border-radius: 25px;
+}
+#texto_centralizado{
+    text-align: center; 
+    color: hsl(0, 0%, 100%);
+}
