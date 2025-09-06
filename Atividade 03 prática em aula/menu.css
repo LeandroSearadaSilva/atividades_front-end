@@ -1,3 +1,17 @@
-#Cor-texto{
-    background-color: aqua;
+body{
+    background-color: antiquewhite;
+}
+li{
+    display: inline-block;
+    margin-right: 250px;
+}
+#centralizar_horizontal{
+    text-align: center;
+}
+.centralizar_vertical{
+    position: absolute; top: 50%; right: 15%;
+}
+a:hover{
+    background-color: rgb(16, 216, 216);
+    border-color: black;
 }
