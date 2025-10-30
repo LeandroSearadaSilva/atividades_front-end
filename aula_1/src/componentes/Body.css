@@ -1,0 +1,26 @@
+div{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+}
+.cap{
+    font-size: 40px;
+    color:aqua;
+    text-indent: 10px;
+}
+h1,h2,h3,h4,h5{
+    font-size: 30px;
+    color:aqua;
+    text-indent: 50px;
+}
+p{
+    font-size: 20px;
+    color: aqua;
+    text-indent: 50px;
+}
+.imagemBody{
+      width: 50%;
+      height: 50%;
+      display: block;
+      margin: 0 auto;
+
+}
